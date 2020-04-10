@@ -17,7 +17,7 @@ header{
 				font-weight:500;
 				font-size:20px;
 				width:25vmax;
-				height:40vmin;
+				height:45vmin;
 				position:absolute;
 				top:5.5pc;
 				left:1.2pc;
@@ -431,9 +431,7 @@ header{
 				grid-column:5/8;
 				}		
 .heading2{
-				grid-row:1/2;
-				grid-column:5/8;
-			  transform:translateY(-200px);
+				display:none;
 				}
 .toggle2{
 				grid-row:2/3;
