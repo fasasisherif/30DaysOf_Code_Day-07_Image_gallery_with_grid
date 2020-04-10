@@ -16,7 +16,7 @@ header{
 				font-weight:500;
 				font-size:20px;
 				width:25vmax;
-				height:45vmin;
+				height:40vmin;
 				position:absolute;
 				top:5.5pc;
 				left:1.2pc;
@@ -407,7 +407,7 @@ header{
 				transform:translateX(50px);
 				transform:translateY(10px);
 				width:15vmax;
-				height:22vmin;
+				height:26vmin;
 				}			
 .title{
 				font-size:70px;
